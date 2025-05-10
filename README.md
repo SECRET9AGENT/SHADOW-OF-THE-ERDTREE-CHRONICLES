@@ -1,4 +1,4 @@
-# SHADOW-OF-THE-ERDTREE-CHRONICLES
+# SHADOW-OF-THE-ERD-CHRONICLES
 [Html.txt](https://github.com/user-attachments/files/20140007/Html.txt)
 [Uploading Script.js…]()// Smooth scrolling for navigation links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
